@@ -1,0 +1,37 @@
+{
+  "city": "남양주시",
+  "brandName": "남양주 올바른정리",
+  "phone": "010-4393-2414",
+  "siteUrl": "https://namyangju.allbarunclean.com",
+  "districts": [
+    {
+      "slug": "dong",
+      "name": "동지역",
+      "dongs": [
+        { "slug": "dasan", "name": "다산동" },
+        { "slug": "pyeongnae", "name": "평내동" },
+        { "slug": "geumgok", "name": "금곡동" },
+        { "slug": "hopyeong", "name": "호평동" },
+        { "slug": "wangsuk", "name": "왕숙동" }
+      ]
+    },
+    {
+      "slug": "eup",
+      "name": "읍지역",
+      "dongs": [
+        { "slug": "jinjeop", "name": "진접읍" },
+        { "slug": "wabu", "name": "와부읍" },
+        { "slug": "hwado", "name": "화도읍" },
+        { "slug": "topyeong", "name": "토평읍" },
+        { "slug": "onam", "name": "오남읍" }
+      ]
+    },
+    {
+      "slug": "myeon",
+      "name": "면지역",
+      "dongs": [
+        { "slug": "sudong", "name": "수동면" }
+      ]
+    }
+  ]
+}
